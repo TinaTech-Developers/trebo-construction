@@ -70,8 +70,21 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="text-center text-green-100 text-sm mt-8">
-        &copy; {new Date().getFullYear()} BuildFlow. All rights reserved.
+      <div className="grid grid-cols-1 md:grid-cols-2">
+        <div className="text-center text-green-100 text-sm mt-8">
+          &copy; {new Date().getFullYear()} BuildFlow. All rights reserved.
+        </div>
+        <p className="text-center text-green-100 text-sm mt-8">
+          Developed by
+          <a
+            className="text-sm font-semibold justify-center ml-1"
+            href="https://www.tinasoftnexus.co.zw"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            TinaSoft Nexus
+          </a>
+        </p>
       </div>
     </footer>
   );
