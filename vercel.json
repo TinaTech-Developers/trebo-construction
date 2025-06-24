@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/:path*",
-      "destination": "https://www.treboconstruction.co.zw/:path*",
-      "permanent": true
-    }
-  ]
-}
