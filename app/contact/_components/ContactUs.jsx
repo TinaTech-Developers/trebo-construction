@@ -23,7 +23,7 @@ const ContactUs = () => {
           <div className="space-y-6 text-green-800">
             <div>
               <h3 className="font-semibold text-lg">📍 Address</h3>
-              <p>32416 Mabvazuva, Estate Ruwa, Zimbabwe</p>
+              <p>No. F26 Arlington Estate, Harare</p>
             </div>
             <div>
               <h3 className="font-semibold text-lg">📞 Phone</h3>
@@ -37,7 +37,7 @@ const ContactUs = () => {
                 href="mailto:info@treboconstruction.co.zw"
                 className="hover:underline"
               >
-                info@treboconstruction.co.zw
+                obert@treboresources.com
               </a>
             </div>
             <div>
