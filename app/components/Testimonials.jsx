@@ -2,25 +2,48 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-
 const testimonials = [
   {
     name: "Emily Johnson",
     role: "Homeowner",
-    photo: "/images/testimonial1.jpg",
-    text: " Trebo Construction transformed our kitchen plumbing with incredible precision and care. The team was professional and quick. Highly recommend!",
+    photo: "/person.png",
+    text: "Trebo Construction transformed our kitchen plumbing with incredible precision and care. The team was professional and quick. Highly recommend!",
   },
   {
     name: "Michael Smith",
     role: "Business Owner",
-    photo: "/images/testimonial2.jpg",
+    photo: "/person.png",
     text: "Their construction work exceeded expectations. On time, budget-friendly, and top quality. We couldn't be happier with the results.",
   },
   {
     name: "Samantha Lee",
     role: "Property Manager",
-    photo: "/images/testimonial3.jpg",
-    text: "Professional, skilled, and reliable.  Trebo Construction has been our go-to for plumbing repairs and upgrades for years.",
+    photo: "/person.png",
+    text: "Professional, skilled, and reliable. Trebo Construction has been our go-to for plumbing repairs and upgrades for years.",
+  },
+  {
+    name: "David Moyo",
+    role: "Site Supervisor",
+    photo: "/person.png",
+    text: "I was impressed with their attention to safety and detail. They followed all regulations and kept the site clean and organized throughout.",
+  },
+  {
+    name: "Chipo Dube",
+    role: "Real Estate Agent",
+    photo: "/person.png",
+    text: "Trebo Construction handled renovations on several of our listings — always top-tier finishes and client satisfaction guaranteed.",
+  },
+  {
+    name: "Tawanda Nkomo",
+    role: "Deck Owner",
+    photo: "/person.png",
+    text: "Their decking specialists built us a stunning outdoor space. Beautiful, durable, and exactly how we envisioned it.",
+  },
+  {
+    name: "Tinashe Phiri",
+    role: "Software Engineer",
+    photo: "/person.png",
+    text: "Working with Trebo Construction has been a seamless experience. They understand design requirements and deliver flawless execution every time.",
   },
 ];
 

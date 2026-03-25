@@ -64,6 +64,30 @@ const services = [
     category: "Decking Specialists",
   },
   {
+    title: "Deckpane Hiring",
+    description: "",
+    image: "/IMG-20250524-WA0008.jpg",
+    category: "Decking Specialists",
+  },
+  {
+    title: "Deckpane Hiring",
+    description: "",
+    image: "/IMG-20250524-WA0007.jpg",
+    category: "Decking Specialists",
+  },
+  {
+    title: "Deckpane Hiring",
+    description: "",
+    image: "/IMG-20250524-WA0006.jpg",
+    category: "Decking Specialists",
+  },
+  {
+    title: "Deckpane Hiring",
+    description: "",
+    image: "/IMG-20250524-WA0005.jpg",
+    category: "Decking Specialists",
+  },
+  {
     title: "Residential Construction",
     description:
       "From foundations to finishes — full-service construction for homes, renovations, and expansions.",
