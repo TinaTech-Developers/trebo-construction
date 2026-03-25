@@ -55,7 +55,7 @@ const ContactUs = () => {
           className="md:w-1/2 bg-white rounded-3xl shadow-lg p-10"
           onSubmit={(e) => {
             e.preventDefault();
-            alert("Thanks for reaching out! We'll get back to you soon.");
+            alert("Thanks for reaching out! We will get back to you soon.");
             e.target.reset();
           }}
         >
